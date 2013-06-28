@@ -1,0 +1,12 @@
+C:\Users\e5006729\Downloads\Direct2DExample\Direct2D\bin\x86\Debug\Direct2D.dll
+C:\Users\e5006729\Downloads\Direct2DExample\Direct2D\bin\x86\Debug\Direct2D.pdb
+C:\Users\e5006729\Downloads\Direct2DExample\Direct2D\bin\x86\Debug\Microsoft.WindowsAPICodePack.DirectX.dll
+C:\Users\e5006729\Downloads\Direct2DExample\Direct2D\obj\x86\Debug\Direct2D.csprojResolveAssemblyReference.cache
+C:\Users\e5006729\Downloads\Direct2DExample\Direct2D\obj\x86\Debug\Direct2D.dll
+C:\Users\e5006729\Downloads\Direct2DExample\Direct2D\obj\x86\Debug\Direct2D.pdb
+C:\Users\gizmo_000\Downloads\DirectX\Direct2D\obj\x86\Debug\Direct2D.csprojResolveAssemblyReference.cache
+C:\Users\gizmo_000\Downloads\DirectX\Direct2D\obj\x86\Debug\Direct2D.dll
+C:\Users\gizmo_000\Downloads\DirectX\Direct2D\obj\x86\Debug\Direct2D.pdb
+C:\Users\gizmo_000\Downloads\DirectX\Direct2D\bin\x86\Debug\Direct2D.dll
+C:\Users\gizmo_000\Downloads\DirectX\Direct2D\bin\x86\Debug\Direct2D.pdb
+C:\Users\gizmo_000\Downloads\DirectX\Direct2D\bin\x86\Debug\Microsoft.WindowsAPICodePack.DirectX.dll

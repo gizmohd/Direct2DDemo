@@ -1,0 +1,7 @@
+C:\Users\gizmo_000\Downloads\DirectX\Direct2D\bin\x86\Release\Direct2D.dll
+C:\Users\gizmo_000\Downloads\DirectX\Direct2D\bin\x86\Release\Direct2D.pdb
+C:\Users\gizmo_000\Downloads\DirectX\Direct2D\bin\x86\Release\Microsoft.WindowsAPICodePack.DirectX.dll
+C:\Users\gizmo_000\Downloads\DirectX\Direct2D\obj\x86\Release\Direct2D.csprojResolveAssemblyReference.cache
+C:\Users\gizmo_000\Downloads\DirectX\Direct2D\obj\x86\Release\Direct2D.dll
+C:\Users\gizmo_000\Downloads\DirectX\Direct2D\obj\x86\Release\Direct2D.pdb
+C:\Users\gizmo_000\Downloads\DirectX\Direct2D\bin\x86\Release\Microsoft.WindowsAPICodePack.DirectX.pdb
